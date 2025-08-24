@@ -1,0 +1,8 @@
+site_name: WWMD
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Issues:
+      - Sample Issue: sample-issue.md
+      - Network Error: network-error.md
