@@ -1,0 +1,6 @@
+site_name: WWMD
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Sample Issue: sample-issue.md
