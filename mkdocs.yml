@@ -3,4 +3,6 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Sample Issue: sample-issue.md
+  - Issues:
+      - Sample Issue: sample-issue.md
+      - Network Error: network-error.md
